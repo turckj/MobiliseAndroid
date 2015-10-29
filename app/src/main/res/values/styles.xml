@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.MyTheme" parent="Theme.AppCompat.Light">
+
+        <!-- Set AppCompat’s color theming attrs -->
+        <item name="colorPrimary">@color/material_blue_grey_800</item>
+        <item name="colorPrimaryDark">@color/primary_dark_material_light</item>
+
+    </style>
+
+</resources>
